@@ -1,0 +1,26 @@
+body {
+	background-color: blue;
+}
+
+.page-header {
+	background-color: yellow;
+	text-align: center;
+}
+
+.row {
+	text-align: center;
+}
+
+.seating {
+	margin: 10px;
+}
+
+.instructions {
+	background-color: green;
+	text-align: center;
+}
+
+.form {
+	background-color: red;
+	text-align: center;
+}
